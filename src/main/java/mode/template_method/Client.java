@@ -3,7 +3,7 @@ package mode.template_method;
 /**
  * @author Yore
  * @date 2021/8/13 9:49
- * @description
+ * @description 模板方法模式-场景类
  */
 public class Client {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package mode.proxy.dynamic;
 /**
  * @author Yore
  * @date 2021/8/16 10:01
- * @description
+ * @description 动态代理模式-场景类
  */
 public class Client {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package mode.abstract_factory;
 /**
  * @author Yore
  * @date 2021/8/11 11:16
- * @description
+ * @description 抽象工厂模式-场景类
  */
 public class Client {
     public static void main(String[] args) {
